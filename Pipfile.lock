@@ -5,7 +5,7 @@
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_full_version": "3.8.13"
+            "python_full_version": "3.10.12"
         },
         "sources": [
             {
@@ -19,7 +19,7 @@
         "alembic": {
             "hashes": [
                 "sha256:47d52e3dfb03666ed945becb723d6482e52190917fdb47071440cfdba05d92cb",
-                "sha256:bca5877e9678b454706347bc10b97cb7d67f300320fa5c3a94423e8266e2823f"
+                "sha256:bca5877e9678b454706347bc10b97cb7~d67f300320fa5c3a94423e8266e2823f"
             ],
             "markers": "python_version >= '3.7'",
             "version": "==1.12.1"
